@@ -1,0 +1,39 @@
+{
+  "name": "ottappanaltics",
+  "version": "1.0.0",
+  "description": "this is the ottappanlaytics app",
+  "keywords": [
+    "full",
+    "stack",
+    "project"
+  ],
+  "homepage": "https://github.com/riyazudeenss63/ottappanalytics#readme",
+  "bugs": {
+    "url": "https://github.com/riyazudeenss63/ottappanalytics/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riyazudeenss63/ottappanalytics.git"
+  },
+  "license": "ISC",
+  "author": "S S RIYAZUDEEN",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.3.3",
+    "multer": "^2.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

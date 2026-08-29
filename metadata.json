@@ -1,0 +1,8 @@
+{
+  "name": "Smart OTT Analytics Platform",
+  "description": "Smart OTT video streaming and engagement analytics platform with real-time watch time tracking, performance metrics, and content management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

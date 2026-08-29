@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ott-analytics-platform/static/css/main.004dd88e.css",
+    "main.js": "/ott-analytics-platform/static/js/main.6eb4c7b9.js",
+    "static/media/ssr-logo.png": "/ott-analytics-platform/static/media/ssr-logo.5ba5e7a5fe5918935e31.png",
+    "index.html": "/ott-analytics-platform/index.html",
+    "main.004dd88e.css.map": "/ott-analytics-platform/static/css/main.004dd88e.css.map",
+    "main.6eb4c7b9.js.map": "/ott-analytics-platform/static/js/main.6eb4c7b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.004dd88e.css",
+    "static/js/main.6eb4c7b9.js"
+  ]
+}
